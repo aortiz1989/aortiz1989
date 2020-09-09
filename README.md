@@ -15,12 +15,11 @@ I currently live in San Diego with my wife and two kids.  I have a B.S. in Compu
 - Avid reader
 
 ## 📫 How to reach me:
-- Twitter
-- Linkedin
-- Youtube
-- Twitch
-- Facebook
-- Blog
+<a href="https://twitter.com/aortiz1989" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/alexortiz1989" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@aortiz1989" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+- <a href="https://youtube.com/c/rogerstechtutorials" target="_blank">Youtube
+- <a href="https://twitch.com/aortiz1989" target="_blank">Twitch
 
 ## 🔭 I’m currently working on
 - Launching my first company
