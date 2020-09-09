@@ -10,36 +10,36 @@ I currently live in San Diego with my wife and two kids.  I have a B.S. in Compu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aortiz1989&layout=compact)](https://github.com/aortiz1989/github-readme-stats)
 
 ## ⚡ Fun facts
-Love to 3D print
-Draw weird stuff
-Avid reader
+- Love to 3D print
+- Draw weird stuff
+- Avid reader
 
 ## 📫 How to reach me:
-Twitter
-Linkedin
-Youtube
-Twitch
-Facebook
-Blog
+- Twitter
+- Linkedin
+- Youtube
+- Twitch
+- Facebook
+- Blog
 
 ## 🔭 I’m currently working on
-Launching my first company
-iOS apps
-Android apps
-Voice Apps
-VR Apps
-Atlassian Plugin
-Agile Book
-Agile Course
-Security Course
-Growing Youtube Channel
-Growing Twitch Channel
+- Launching my first company
+- iOS apps
+- Android apps
+- Voice Apps
+- VR Apps
+- Atlassian Plugin
+- Agile Book
+- Agile Course
+- Security Course
+- Growing Youtube Channel
+- Growing Twitch Channel
 
 
 ## 🌱 I’m currently learning
-Vector graphics
-agile
-leadership
-strategy execution
+- Vector graphics
+- Agile
+- Leadership
+- Strategy execution
 
 
